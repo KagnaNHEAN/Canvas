@@ -1,0 +1,13 @@
+body{
+  background: -webkit-linear-gradient(left, #dd99ff, #ff3300, #ccd9ff);
+  background: -moz-linear-gradient(left, #dd99ff, #ff3300, #ccd9ff);
+}
+h1{
+  text-align: center;
+  color: white;
+}
+#canvas1{
+  background: white;
+  display: block;
+  margin: auto;
+}
